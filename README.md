@@ -1,5 +1,7 @@
-# Metro Manila Train Isochrones
-Data Processing for [Map](https://felt.com/map/Where-can-you-reach-if-you-walk-for-15-mins-from-a-train-station-6T5pTwLVQNyVLL49CFfvXlB?lat=14.60485&lon=121.005233&zoom=12.27)
+# Metro Manila Train Station Isochrones
+Isochrones maps shows accessible area from a point given certain time or distance. 
+
+Data Processing for [felt map](https://felt.com/map/Metro-Manila-Train-Station-Isochrones-6T5pTwLVQNyVLL49CFfvXlB?lat=14.60485&lon=121.005233&zoom=12.27)
 
 
 ## Notes
